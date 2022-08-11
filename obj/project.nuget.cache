@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0TxbInC1Xqqwd8SNsVDXz1ymiihXJt/yEGuRZpT4QcHQwtcC+iBe7Hd2/g+iPINflOGqkTyvh8k7eypxK45+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deben\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TheJanitor\\TheJanitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deben\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
