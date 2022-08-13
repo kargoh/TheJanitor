@@ -51,8 +51,8 @@ namespace TheJanitor.Content.Items.Weapons
         public static int GetDamage()
         {
             // Use the janitors age as the damage (ex: 1991 = 30 y/o)
-            var today = DateTime.Today;
-            var birthday = DateTime.Parse("8.16.1991");
+            var today = System.DateTime.Today;
+            var birthday = System.DateTime.Parse("8.16.1991");
             var age = today.Year - birthday.Year;
 
             // Go back to the year in which the person was born in case of a leap year
